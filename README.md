@@ -5,7 +5,7 @@
 ### The DATA:
 The dataset is a json file consisting of several test subjects and their metadata for a microbes found inside their navels. While the dataset is accessed remotely a local copy is added to this repo for convience
 
-### The JavaScript Files:
+### The Files:
 This repo contains a app.js file that reads in the study data and converts it into an interactive webpage consiting of 4 portions
 * A dropdown menu that allows you to choose a specific test subject
 * A table that displays the metadata for that subject
